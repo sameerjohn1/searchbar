@@ -5,7 +5,6 @@ function App() {
   const [searchterm, setsearchTerm] = useState("");
   return (
     <>
-      <h1>Sammer</h1>
       <input
         placeholder="search..."
         type="text"
